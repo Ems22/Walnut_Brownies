@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head> 
+    <meta charset="utf-8">
+    <title>Brownies</title>
+  </head>
+    <body>
+      <h1>Brownies</h1>
+      <p>These brownies are mouth watering.</p>
+      <img src="https://www.allrecipes.com/thmb/Bf_v7CGEIk1T0KOYsBeGdcs56Lo=/1500x0/filters:
+      no_upscale():max_bytes(150000)
+      :strip_icc()/AR-9599-Quick-Easy-Brownies-ddmfs-4x3-697df57aa40a45f8a7bdb3a089eee2e5.jpg" 
+      alt= "walnut brownie" 
+      width= "100">
+      <h2>Ingredients</h2>
+      <ul>
+        <li>Baking Spray</li>
+        <li>2 cups white sugar</li>
+        <li>1/4 cup all-purpose flower</li>
+        <li>1 cup unsalted butter, melted</li>
+        <li>4 large eggs, room tempature</li>
+        <li>1/2 cup coco powder</li>
+        <li>1 teaspoon vanilla extract</li>
+        <li>1/2 teaspoon baking powder</li>
+        <li>1/2 teaspoon salt</li>
+        <li>1/2 cup walnut halves</li>
+      </ul>
+      <h2>Instructions</h2>
+      <ol>
+        <li>Gather all ingredients</li>
+        <li>Preheat oven to 350 degrees F (175 Degrees C). Grease a 9x13-inch pan with baking spray.
+        </li>
+        <li>Whisk sugar, flour, melted butter, eggs, cocoa powder, vanilla, baking powder, and salt in
+           a large bowl until combined.</li>
+        <li>Spread the batter into the prepared pan.</li>
+        <li>Decorate with walnut halves.</li>
+        <li>Bake in the preheated oven until top is crinkled and a toothpick comes out with a few 
+          moist crumbs, about 20 to 30 minutes.</li>
+        <li>Let cool completely in the pan on a wire rack before slicing into squares. Enjoy!</li>  
+      </ol>      
+    </body> 
+</html>
